@@ -3,6 +3,10 @@
 ## Overview
 This Flask web application demonstrates SQL injection vulnerabilities in a user authentication system. It includes an SQLite database and illustrates how improperly constructed SQL queries can be exploited.
 
+
+![Script](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZ6b3UydzdnNTVwbWM4eTBmdWptN3d0aDJzaGpnc2pjMmY3eXdhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pP4k3B4czAGGXHhddA/giphy.gif)
+
+
 ## Features
 - User login with predefined credentials.
 - Detailed HTML/CSS frontend using Bootstrap.
